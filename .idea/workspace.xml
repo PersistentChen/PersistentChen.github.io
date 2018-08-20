@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a3f90ea-d82b-46d8-9097-beed349e6367" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/1920x1080/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1920x1080/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1920x1080/05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1920x1080/06.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/1920x1080/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1920x1080/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1920x1080/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1920x1080/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1920x1080/05.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +19,7 @@
     <session id="389890244">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -31,6 +31,7 @@
           <entry key="html" value="1" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="5" />
+          <entry key="js" value="1" />
           <entry key="png" value="2" />
         </counts>
       </usages-collector>
@@ -39,32 +40,35 @@
           <entry key="CSS" value="7" />
           <entry key="HTML" value="1" />
           <entry key="Image" value="10" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="10" />
-          <entry key="html" value="266" />
+          <entry key="html" value="298" />
+          <entry key="js" value="233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="10" />
-          <entry key="HTML" value="266" />
+          <entry key="HTML" value="304" />
+          <entry key="JavaScript" value="226" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="399">
+              <caret line="485" column="47" lean-forward="true" selection-start-line="485" selection-start-column="47" selection-end-line="485" selection-end-column="47" />
               <folding>
                 <element signature="e#4038#4043#0" expanded="true" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#6106#6111#0" expanded="true" />
                 <element signature="e#6120#6125#0" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
@@ -78,28 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/add.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="1601" column="14" lean-forward="true" selection-start-line="1601" selection-start-column="14" selection-end-line="1601" selection-end-column="14" />
+            <state relative-caret-position="696">
+              <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="296" column="14" lean-forward="true" selection-start-line="296" selection-start-column="14" selection-end-line="296" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/layout-rtl.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39165" />
           </provider>
         </entry>
       </file>
@@ -109,6 +105,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -120,6 +117,7 @@
       <list>
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/add.js" />
       </list>
     </option>
   </component>
@@ -203,7 +201,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26814267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1599016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -299,11 +297,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="399">
+          <caret line="485" column="47" lean-forward="true" selection-start-line="485" selection-start-column="47" selection-end-line="485" selection-end-column="47" />
           <folding>
             <element signature="e#4038#4043#0" expanded="true" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="e#6106#6111#0" expanded="true" />
             <element signature="e#6120#6125#0" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
@@ -312,6 +309,21 @@
             <element signature="e#20100#20105#0" expanded="true" />
             <element signature="e#23622#23627#0" expanded="true" />
             <element signature="e#27130#27135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
